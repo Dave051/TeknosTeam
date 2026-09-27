@@ -1,3 +1,13 @@
+body{
+    color: rgb(40, 40, 40);
+    background-color: whitesmoke;
+}
+
+body.sotet-tema{
+    background-color: rgb(40, 40, 40);
+    color: whitesmoke;
+}
+
 h1{
     text-align: center;
 }
@@ -11,6 +21,16 @@ img{
 
 hr{
     max-width: 60%;
+}
+
+header{
+    background-color: aqua;
+}
+
+.szoveg{
+    max-width: 60%;
+    margin: auto;
+    text-align: justify;
 }
 
 #temavaltas{
