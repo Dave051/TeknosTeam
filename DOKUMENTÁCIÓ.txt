@@ -1,0 +1,10 @@
+2026.09.24.:
+Fő oldal megtervezése, projektterv kitalálása. Megbeszéltük az ötleteinket, elképzelésinket., és elkezdtük ezek megvalósítását. (Alex és Adrián)
+Sötét-világos téma megtervezése (Alex)
+Képek gyűjtése (Alex)
+
+2026.09.27.:
+Kinézet fejlesztése. (Adrián)
+Sötét-világos téma befejezése: JavaScript függvény megírása (Dávid)
+Információ gyűjtés (Adrián)
+Linkek (Adrián)
